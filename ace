@@ -12,6 +12,7 @@
 | global proxies all the ace commands.
 |
 */
+require('./ace')
 
 const { Ignitor } = require('@adonisjs/ignitor')
 
